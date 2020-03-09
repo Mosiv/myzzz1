@@ -1,3 +1,3 @@
 # myzzz1
 
-Добавить файл "flutter_release_apk" в delnik\android\app
+Добавить файл "flutter_release_apk" в android\app
