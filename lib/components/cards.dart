@@ -5,9 +5,9 @@ import '../data/models.dart';
 List<Color> colorList = [
   Colors.blue,
   Colors.green,
-  Colors.indigo,
+//Colors.indigo,
   Colors.red,
-  Colors.cyan,
+//Colors.cyan,
 ];
 
 class NoteCardComponent extends StatelessWidget {
