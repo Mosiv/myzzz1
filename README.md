@@ -5,3 +5,7 @@
 material ?
 
 \android\app\src\main\res
+
+Flare (.flr)
+myzzz1/assets/splash.flr
+
